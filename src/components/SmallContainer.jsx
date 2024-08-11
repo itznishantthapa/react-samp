@@ -1,0 +1,13 @@
+import React from 'react'
+
+function SmallContainer() {
+  return (
+    <div>
+        <div className='w-1/4 h-screen bg-slate-500 fixed top-0 right-0 pt-16 p-6'>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit quos inventore repellendus debitis rem id, accusantium adipisci. Distinctio culpa dolore, laudantium soluta architecto ducimus cumque maiores ratione temporibus harum. Reiciendis perferendis a iste fugit, accusantium repellendus illo quo qui, voluptatem quibusdam dolores fuga modi quae blanditiis beatae nemo sed praesentium esse! Delectus voluptatum expedita eum aut assumenda deleniti dolore labore laudantium voluptatibus laboriosam ut, ea possimus incidunt quam odit non officia recusandae dolor fuga optio dolorem. Eligendi velit, totam aspernatur aliquam laborum ratione odit alias? Eum quam nisi accusantium inventore necessitatibus ipsa laborum. At qui rerum, quibusdam natus sequi accusantium veniam ullam, sint sapiente similique ex recusandae dolore et. Voluptate autem id quae totam explicabo numquam modi mollitia provident consectetur praesentium. Excepturi repellendus nihil ea! Doloribus libero repudiandae veniam cupiditate consequuntur dolorem tempora? Voluptate iure odit natus facilis. Saepe doloribus ipsa deleniti sapiente, eveniet itaque odit ad voluptatum veritatis commodi magni eius provident odio magnam, illum doloremque ratione. Voluptatum porro repellat eum debitis numquam necessitatibus eos consectetur perspiciatis corrupti aut? A asperiores amet est? Reprehenderit libero eius enim debitis quibusdam nisi doloribus at qui quod excepturi sint in consequuntur iusto atque quae suscipit praesentium est corrupti, tenetur, necessitatibus minima exercitationem perferendis fugit nam! Voluptas eligendi suscipit fugiat porro, aut nisi adipisci quasi animi quod quisquam rem quos sint facere. Aliquid earum quae expedita nesciunt, explicabo iste ab soluta molestiae ea ratione eum officia harum facilis exercitationem vero sit veniam delectus ullam inventore quis! Ullam saepe fugiat, aperiam perferendis itaque blanditiis ea eum, similique dolorem possimus ipsa. Accusamus natus ullam, harum dolorum architecto eligendi voluptates. Enim, molestiae adipisci minus alias suscipit harum exercitationem corrupti cupiditate libero dolores animi id! Placeat, quaerat perferendis. Repudiandae minima, dolor expedita voluptate sint perferendis. Perspiciatis blanditiis minus dolore ducimus voluptatibus harum sapiente obcaecati maiores mollitia quod.
+        </div>
+    </div>
+  )
+}
+
+export default SmallContainer
